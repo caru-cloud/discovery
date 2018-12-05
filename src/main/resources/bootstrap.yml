@@ -1,8 +1,0 @@
-spring:
-  profiles:
-    active: local
-  application:
-    name: discovery
-  cloud:
-    config:
-      url: http://localhost:8888
